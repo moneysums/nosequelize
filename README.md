@@ -1,0 +1,2 @@
+# nosequelize
+Sequelize for NoSql
