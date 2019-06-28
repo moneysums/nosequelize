@@ -1,0 +1,31 @@
+{
+  "name": "nosequelize",
+  "version": "0.1.0-dev",
+  "description": "Sequelize for NoSql",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest test"
+  },
+  "repository": "github:moneysums/nosequelize",
+  "keywords": [
+    "nosql",
+    "orm"
+  ],
+  "author": "paulbloomfield.uk@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moneysums/nosequelize/issues"
+  },
+  "homepage": "https://github.com/moneysums/nosequelize",
+  "devDependencies": {
+    "dotenv": "^8.0.0",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.18.0",
+    "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "eslint-plugin-jest": "^22.7.1"
+  }
+}
